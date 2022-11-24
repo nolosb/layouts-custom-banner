@@ -1,0 +1,6 @@
+en:
+  theme_metadata:
+    description: "Club Template"
+  welcome_banner:
+    title: "Welcome to Community Club"
+    subtitle: "Community Club is a community template based on Discourse"
